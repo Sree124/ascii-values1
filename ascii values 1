@@ -1,0 +1,8 @@
+# Read input character
+char = input()
+
+# Get ASCII value using ord() function
+ascii_value = ord(char)
+
+# Print the ASCII value
+print(ascii_value)
